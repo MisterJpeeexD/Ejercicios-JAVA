@@ -25,6 +25,7 @@ bin/
 
 ### VS Code ###
 .vscode/
+src/Testing.java
 
 ### Mac OS ###
 .DS_Store
